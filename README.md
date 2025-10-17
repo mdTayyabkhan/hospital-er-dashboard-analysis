@@ -122,4 +122,9 @@ A comprehensive Business Intelligence (BI) project designed to analyze and visua
 
 This dashboard project showcases the power of **data visualization in healthcare analytics**. By turning raw ER data into meaningful insights, it helps hospitals **enhance service delivery**, **improve patient satisfaction**, and **ensure equitable care**. Whether you're a hospital administrator, healthcare analyst, or data science student, this project offers a strong template for actionable healthcare intelligence.
 
-Note: This Project is purely for Education Purpose Only
+## 👤 Author
+
+**Md. Tayyab Khan**
+📍 *Data Analyst | Skilled in Excel, SQL,Tableau and Power BI*
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammadtayyabkhan)
+🔗 [Email](https://mdtayyabkhan02@gmail.com.com)
